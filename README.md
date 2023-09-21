@@ -3,3 +3,5 @@ The project aimed to classify requests as either DoH or non-DoH, and then furthe
 
 
 Please go through the report and the python notebook files 
+
+Data set has been minimised
